@@ -8,7 +8,9 @@ verify_ssl = true
 [packages]
 django = "*"
 pillow = "*"
-sqlite3 = "*"
+pysqlite3 = "*"
+django-grappelli = "*"
+django-cleanup = "*"
 
 [requires]
 python_version = "3.7"
