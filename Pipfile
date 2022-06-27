@@ -11,6 +11,8 @@ pillow = "*"
 pysqlite3 = "*"
 django-grappelli = "*"
 django-cleanup = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [requires]
 python_version = "3.7"
